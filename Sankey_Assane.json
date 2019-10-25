@@ -23,14 +23,14 @@
                     "width": 0.5
                 },
                 "label": [
-					"Données",
-					"IoT",
-					"Non IoT (nIoT)",
-                    "IoT&nIoT local",
-					"IoT+nIoT non local",
-					"IoT local",
-					"nIoT local",
-					"IoT non local",
+			"Données",
+			"IoT",
+			"Non IoT (nIoT)",
+   			 "IoT&nIoT local",
+			"IoT+nIoT non local",
+			"IoT local",
+			"nIoT local",
+			"IoT non local"
                 ],
                 "color": [
                     "rgba(31, 119, 180, 0.8)",
@@ -45,7 +45,7 @@
             "link": {
                 "source": [
                     0,
-					0
+		    0
                 ],
                 "target": [
                     1,
@@ -53,7 +53,7 @@
                 ],
                 "value": [
                     124.729,
-                    0.597,
+                    0.597
                 ],
                 "color": [
                     "rgba(0,0,96,0.2)",
